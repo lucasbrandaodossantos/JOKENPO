@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="botao_jogar">JOGAR</string>
+    <string name="p1">Player 1</string>
+    <string name="p2">Player 2</string>
+
+    <string name="pedra">Pedra</string>
+    <string name="papel">Papel</string>
+    <string name="tesoura">Tesoura</string>
+    <string name="um">1</string>
+    <string name="dois">2</string>
+    <string name="tres">3</string>
+    <string name="empate">Empate!</string>
+    <string name="playerumganha">Player um ganhou!</string>
+    <string name="playerdoisganha">Player dois ganhou!</string>
+
+
+
+</resources>
